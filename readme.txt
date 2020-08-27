@@ -7,3 +7,4 @@ this is a change in dev branch.
 working....
 bug fix-2 version.
 add a new line to test if another branch show.
+changes in conflcit version test.
